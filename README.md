@@ -5,6 +5,8 @@
 2. Clear any existing code inside the **HTML** editor panel.
 3. Copy the loader script below and paste it into the **HTML** panel.
 
+<img src="https://cdn.discordapp.com/attachments/1115750209801175062/1575567470209667203/image.png?ex=6b09c10d&is=6b086f8d&hm=2179d903677a5be8e4fbbadfb30036a4f94a8adaaebbf1e98fe0fc49461b91c8&" width="888"/>
+
 ---
 
 ## Loader Script
