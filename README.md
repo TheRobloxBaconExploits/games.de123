@@ -1,5 +1,4 @@
 <!—- GAMES.DE IS BACK —->
-<!-- This is a hidden note in the HTML code -->
 <!-- Loader Website (search on google): liveweaver html -->
 
 <!—- Loader:—-!>
