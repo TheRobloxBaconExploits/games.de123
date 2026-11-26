@@ -1,11 +1,12 @@
 # GAMES.DE IS BACK
 
 ## Setup Instructions
-1. Open [Liveweave](https://liveweave.com) (via Google).
-2. Clear any existing code inside the **HTML** editor panel.
-3. Copy the loader script below and paste it into the **HTML** panel.
+1. Inform me that ur using it first of all
+2. Open [Liveweave](https://liveweave.com) (via Google).
+3. Clear any existing code inside the **HTML** editor panel.
+4. Copy the loader script below and paste it into the **HTML** panel.
 
-<img src="" width="888"/>
+<!—- <img src="" width="888"/> —>
 
 ---
 
