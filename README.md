@@ -6,8 +6,6 @@
 3. Clear any existing code inside the **HTML** editor panel.
 4. Copy the loader script below and paste it into the **HTML** panel.
 
-<!—- img src="" width="888"/ -—!>
-
 ---
 
 ## Loader Script
